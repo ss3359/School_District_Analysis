@@ -8,7 +8,7 @@ The School Board in the State of Colorado has notified one of the principals of 
 # Results
 In this project, we are observing how the data is changed overall when we eliminate the ninth grade reading and math scores from Thomas High School. From the change in the data, this is what we have observed. 
 
-    ### 1. How is the district summary affected? 
+   ### 1. How is the district summary affected? 
 
 
 
