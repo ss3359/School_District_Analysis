@@ -70,7 +70,14 @@ Here is the same data frame with the Thomas High School ninth-grader test scores
 
 Notice that schools whose spending per student is less than $586 remained the same for both data frames. The scores for schools whose spending per student in between $646 to $675 has not changed either. The test scores have increased for each row entry of data for schools whose student spending is in between $586 to $630 and $631 and $645 respectively. 
 
+#### c. The Scores By School Size
 
+By observing the test scores by school size, there is not much of a change in test scores occuring without and with the test scores removed. Here is the data frame of the test scores by school size without the scores from the Thomas High School ninth graders removed: 
+
+<img width="674" alt="Screen Shot 2022-07-10 at 9 31 38 AM" src="https://user-images.githubusercontent.com/104328106/178151496-f05f0d1b-dd37-438a-a389-822c0895d0b0.png">
+
+Here are the test scores by school size with the test scores removed: 
+<img width="668" alt="Screen Shot 2022-07-10 at 9 32 35 AM" src="https://user-images.githubusercontent.com/104328106/178151537-95a02c12-814e-4ec7-943c-e59151111115.png">
 
 
 
