@@ -23,5 +23,34 @@ Here is the district summary dataframe after the scores for Thomas High School n
 
 From these two dataframes, there is a minor decrease in percentages passing in math, reading, and the overall percentage. 
 
-#### 2. How is the school summary affected? 
+#### 2. How is the school summary affected?
+
+Based on the data clensing, we have found a small percent decrease in the passing math, reading and overall percentage of passing scores. What is interesting is that the Average Reading Score for Thomas High School has increased after the Thomas High School test scores for ninth graders were removed. 
+
+Here is the data frame displaying the school summaries in the district before the scores from the Thomas High School ninth graders were removed. 
+
+
+<img width="867" alt="Screen Shot 2022-07-10 at 12 22 05 PM" src="https://user-images.githubusercontent.com/104328106/178157289-fd8a4fad-c082-4aa0-bfbc-92eb45fc30a9.png">
+
+Here is the similar dataframe after the test scores from the Thomas High School ninth graders were removed. 
+
+<img width="864" alt="Screen Shot 2022-07-10 at 12 23 45 PM" src="https://user-images.githubusercontent.com/104328106/178157323-8c828fb9-2795-4389-bc3c-4ad0d2b05e60.png">
+
+
+Notice that the Average Reading Score from Thomas High School has increased. Otherwise, the overall the passing percentages for math, reading, and overall have decreased only a small amount. 
+
+#### 3. How does replacing ninth graders' math and reading scores affect Thomas High Schools performance relative to the other schools? 
+
+Since there was a minor decrease in percentage of passing math, reading, and overall passing, this decrease did not reflect their school ranking as one of top five performing schools. 
+
+Here is the dataframe representing the high performing schools in the district without the Thomas High School ninth graders test scores removed. This was sorted by the passing overall percent from highest to lowest. 
+
+
+<img width="886" alt="Screen Shot 2022-07-10 at 12 30 59 PM" src="https://user-images.githubusercontent.com/104328106/178157705-04520bf9-7857-4132-a9a3-a8c92e582db2.png">
+
+Here is the similar dataframe with the scores removed. 
+
+<img width="864" alt="Screen Shot 2022-07-10 at 12 31 26 PM" src="https://user-images.githubusercontent.com/104328106/178157724-16a2668b-ba21-47d9-9066-b44c758af73b.png">
+
+Since there was little percent change from the scores by Thomas High School, it did not reflect their ranking whatsoever. 
 
