@@ -72,3 +72,18 @@ Obviously, we have removed the scores for ninth graders from Thomas High School.
 
 <img width="352" alt="Screen Shot 2022-07-10 at 12 46 06 PM" src="https://user-images.githubusercontent.com/104328106/178158006-c4fa5f84-6aeb-4e8c-91e9-30856368ebb1.png">
 
+
+Here are the similar dataframes with the math and reading score from Thomas High School ninth graders removed. This is indicated as a 'NaN' entry in the respective dataframes. 
+
+
+##### Math Scores By Grade Level (Refined): 
+
+<img width="406" alt="Screen Shot 2022-07-10 at 12 50 48 PM" src="https://user-images.githubusercontent.com/104328106/178158142-c8df50ee-b1f9-4c23-be10-1cc880d33a6a.png">
+
+
+
+##### Reading Scores By Grade Level (Refined): 
+
+<img width="409" alt="Screen Shot 2022-07-10 at 12 51 00 PM" src="https://user-images.githubusercontent.com/104328106/178158148-2320e2b7-9326-4e70-a0ac-865e6f099fc7.png">
+
+
