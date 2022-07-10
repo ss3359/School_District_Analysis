@@ -21,7 +21,7 @@ Here is the district summary dataframe after the scores for Thomas High School n
 
 <img width="805" alt="Screen Shot 2022-07-10 at 11 42 16 AM" src="https://user-images.githubusercontent.com/104328106/178156017-620532ea-9825-4728-8b51-5e2120ac7350.png">
 
-From these two dataframes, there is a minor decrease in percentages passing in math, reading, and the overall percentage. 
+From these two dataframes, there is a minor decrease in percentages passing in math, reading, and the overall percentage.  
 
 #### 2. How is the school summary affected?
 
