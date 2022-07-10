@@ -41,7 +41,7 @@ Clearly, we can observe that the removal of the scores did not alter the schools
 
 ### 4. How does replacing the ninth-grade scores affect the following: 
 
-#### a. The scores by school spending 
+#### a. The Scores By School Spending 
 What we see is that there is not a change of percent of passing scores for math and reading. Here are the data frames for math and reading without the test scores for Thomas High School ninth graders removed respectively: 
 
 ##### Math Scores By Grade Level: 
@@ -59,6 +59,20 @@ Here are the test scores for math and reading with the test scores for Thomas Hi
 
 ##### Reading Scores By Grade Level (Refined): 
 <img width="311" alt="Screen Shot 2022-07-10 at 9 01 10 AM" src="https://user-images.githubusercontent.com/104328106/178150380-d0f98fc7-92ab-44a4-9518-f4635e216266.png">
+
+#### b. The Scores By School Spending
+In both cases, we have found that the spending for Thomas High School is in between $631 fo $645 per student. However, there is a change of percentages of passing test scores when the scores from the Thomas High School ninth-graders are removed. Here is the data frame of test scores by school spending before the alteration of the data: 
+<img width="729" alt="Screen Shot 2022-07-10 at 9 15 05 AM" src="https://user-images.githubusercontent.com/104328106/178150955-f7f22fbf-4bb4-481b-8219-bc7b70c82e80.png">
+
+
+Here is the same data frame with the Thomas High School ninth-grader test scores removed: 
+<img width="724" alt="Screen Shot 2022-07-10 at 9 18 28 AM" src="https://user-images.githubusercontent.com/104328106/178150996-af6348d6-8db0-440e-ba91-a09f41d1ee06.png">
+
+Notice that schools whose spending per student is less than $586 remained the same for both data frames. The scores for schools whose spending per student in between $646 to $675 has not changed either. The test scores have increased for each row entry of data for schools whose student spending is in between $586 to $630 and $631 and $645 respectively. 
+
+
+
+
 
 # Summary
 
