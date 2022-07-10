@@ -54,3 +54,10 @@ Here is the similar dataframe with the scores removed.
 
 Since there was little percent change from the scores by Thomas High School, it did not reflect their ranking whatsoever. 
 
+#### 4. How does replacing the ninth-grade scores affect the following: 
+
+
+##### a. Math and Reading Scores By Grade
+
+
+
