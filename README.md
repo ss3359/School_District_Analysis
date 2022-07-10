@@ -9,6 +9,12 @@ The School Board in the State of Colorado has notified one of the principals of 
 In this project, we are observing how the data is changed overall when we eliminate the ninth grade reading and math scores from Thomas High School. From the change in the data, this is what we have observed. 
 
    ### 1. How is the district summary affected? 
+   These were the following results displayed for the school district summary. The first results is the district summary before the scores for Thomas High School were removed. The results is shown below. 
+<img width="1363" alt="Screen Shot 2022-07-10 at 6 18 08 AM" src="https://user-images.githubusercontent.com/104328106/178144605-afe9f7ff-e5ff-4d15-988a-4460b93ef0ba.png">
+
+This is the results for the district summary shown below, but the reading and mathematics scores for Thomas High School were removed. There is a change of percentage of passing scores for the district. 
+
+<img width="1326" alt="Screen Shot 2022-07-10 at 6 21 17 AM" src="https://user-images.githubusercontent.com/104328106/178144734-3d708eca-2431-402d-9944-46d7646ab5ce.png">
 
 
 
