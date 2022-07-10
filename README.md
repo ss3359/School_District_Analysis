@@ -72,7 +72,7 @@ Notice that schools whose spending per student is less than $586 remained the sa
 
 #### c. The Scores By School Size
 
-By observing the test scores by school size, there is not much of a change in test scores occuring without and with the test scores removed. Here is the data frame of the test scores by school size without the scores from the Thomas High School ninth graders removed: 
+By observing the test scores by school size, there is not much of a change in test scores occuring without and with the test scores removed. According to our findings, Thomas High School is a medium sized school. In other words, the student count is in between 1000 to 1999 students.  Here is the data frame of the test scores by school size without the scores from the Thomas High School ninth graders removed: 
 
 <img width="674" alt="Screen Shot 2022-07-10 at 9 31 38 AM" src="https://user-images.githubusercontent.com/104328106/178151496-f05f0d1b-dd37-438a-a389-822c0895d0b0.png">
 
