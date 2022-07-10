@@ -26,11 +26,17 @@ Here is the similar school summary data frame with the scores from Thomas High S
 
 Comparing both data frames, we see there is a minor percent decrease of passing scores for reading, math, and overall passing. There is not a change in the data. To prove this, we have printed out the top five performing schools in the district. Here are the data frames displaying the top five schools in the distict without the scores removed. 
 
+### 3. How does replacing the ninth graders' math and reading scores affect Thomas High Schools performance relative to other schools? 
+With a percent change occuring after the test scores removed, Thomas High School still remained the second best performing high school in terms of their test scores. Here is the data frame representing the top five performing high schools in the district without the test scores removed. 
+
 <img width="1196" alt="Screen Shot 2022-07-10 at 7 24 22 AM" src="https://user-images.githubusercontent.com/104328106/178146813-3f3ae3e3-07b0-4de1-998b-58b69020234e.png">
 
+Here is the same data frame with the test scores removed. 
+
+<img width="1196" alt="Screen Shot 2022-07-10 at 7 24 22 AM" src="https://user-images.githubusercontent.com/104328106/178148709-5e4fb2c6-fe31-4e3e-8bb1-5f43939fb2bd.png">
 
 
-
+Clearly, we can observe that the removal of the scores did not alter the schools ranking. 
 
 
 # Summary
