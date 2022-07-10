@@ -90,7 +90,7 @@ After the removial of the grades, there seems to be no change in the data at all
 
 
 
-#### b. Scores By School Spending: 
+#### b. Scores By School Spending 
 In this scenario, we have created four groups to label each school in the district based on spending per student. Thomas High School has a student spending in between $631 and $645 per student. 
 
 Here is the data frame displaying the test scores in regards to spending ranges per student, without removing the test scores made by Thomas High School ninth graders. 
@@ -101,6 +101,37 @@ Here is the data frame displaying the test scores in regards to spending ranges 
 Here is the similar dataframe with the test scores made by Thomas High School ninth graders removed. 
 
 <img width="701" alt="Screen Shot 2022-07-10 at 12 59 16 PM" src="https://user-images.githubusercontent.com/104328106/178158384-52d1aecd-0bd4-46d8-a075-7500a37ffeaa.png">
+
+
+#### c. Scores By School Size
+In this scenario, we have generated a similar method creating groups as the previous part. This time, we have created groups representing school size. According to the school board, there are three types of school sizes: small (less than 1000 students), medium (between 1000 to 1999 students), and large (between 2000 to 5000 students). Thomas High School is classified as an medium sized school. 
+
+Here is the following dataframe representing passing test scores by school size without the scores made by Thomas High School ninth graders removed. 
+
+<img width="679" alt="Screen Shot 2022-07-10 at 1 08 05 PM" src="https://user-images.githubusercontent.com/104328106/178158639-bf670f87-5b30-422a-b198-929af1a5d297.png">
+
+
+Here is the similar dataframe but the score made by Thomas High School ninth graders are removed. 
+
+
+<img width="679" alt="Screen Shot 2022-07-10 at 1 07 20 PM" src="https://user-images.githubusercontent.com/104328106/178158663-414f65c3-30ad-4f8d-9ceb-368d07893341.png">
+
+#### d. Scores By School Type
+
+Finally, in this situation, we have grouped the data as like the previous two parts. This time, we are gouping the school by school type. According to the school board, each high school in the district is classified by two types. They are ordinary district schools or charter schools. Thomas High School is classified as a charter school. 
+
+Here is the dataframe representing the test scores by school type without the test scores made by Thomas High School ninth graders removed. 
+
+<img width="639" alt="Screen Shot 2022-07-10 at 1 15 31 PM" src="https://user-images.githubusercontent.com/104328106/178158836-4fba1cfa-46e6-4b65-a603-d980fdaaf7ef.png">
+
+
+Here is the similar dataframe but the test scores made by Thomas High School ninth graders are removed. 
+
+<img width="636" alt="Screen Shot 2022-07-10 at 1 16 38 PM" src="https://user-images.githubusercontent.com/104328106/178158864-9129d110-00d1-4fb2-8361-c0bf1b1fe407.png">
+
+
+# Summary
+
 
 
 
