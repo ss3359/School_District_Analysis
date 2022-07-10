@@ -22,7 +22,8 @@ From the previous results, we see that there was a percent decrease in passing s
 <img width="730" alt="Screen Shot 2022-07-10 at 6 34 07 AM" src="https://user-images.githubusercontent.com/104328106/178145124-1f9e8c18-58dd-42ea-994d-e6a77dcaf371.png">
 
 Here is the similar school summary data frame with the scores from Thomas High School removed. 
-<img width="730" alt="Screen Shot 2022-07-10 at 6 36 23 AM" src="https://user-images.githubusercontent.com/104328106/178145169-32fc8dc5-67ab-4966-ad96-46320c5db1ba.png">
+
+<img width="872" alt="Screen Shot 2022-07-10 at 8 20 05 AM" src="https://user-images.githubusercontent.com/104328106/178148840-561b002e-e447-445a-9617-0c8e6fb3e545.png">
 
 Comparing both data frames, we see there is a minor percent decrease of passing scores for reading, math, and overall passing. There is not a change in the data. To prove this, we have printed out the top five performing schools in the district. Here are the data frames displaying the top five schools in the distict without the scores removed. 
 
@@ -33,7 +34,8 @@ With a percent change occuring after the test scores removed, Thomas High School
 
 Here is the same data frame with the test scores removed. 
 
-<img width="872" alt="Screen Shot 2022-07-10 at 8 20 05 AM" src="https://user-images.githubusercontent.com/104328106/178148840-561b002e-e447-445a-9617-0c8e6fb3e545.png">
+<img width="867" alt="Screen Shot 2022-07-10 at 8 21 49 AM" src="https://user-images.githubusercontent.com/104328106/178148907-e566c80c-1733-4b54-961a-049cc63a7b97.png">
+
 
 
 
