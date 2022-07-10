@@ -82,8 +82,14 @@ Here is the same data frame with the Thomas High School ninth grader test scores
 <img width="668" alt="Screen Shot 2022-07-10 at 9 32 35 AM" src="https://user-images.githubusercontent.com/104328106/178151537-95a02c12-814e-4ec7-943c-e59151111115.png">
 
 #### d. The Scores By School Type 
+In this project, we have sorted out the test score data based on the school type. According to the school board, each high school in the district is classified as two types. They are district and charter schools. In our dataset, we found that Thomas High School is a charter school. 
 
-From our findings, Thomas High School is a charter school 
+By observing the test scores by school type, there is not much of a change of test score percentages without and with the test scores from the Thomas High School ninth graders removed. Here is the data frame of the test scores by school type without the Thomas High School ninth grader test scores removed: 
+
+<img width="632" alt="Screen Shot 2022-07-10 at 9 57 16 AM" src="https://user-images.githubusercontent.com/104328106/178152304-46a92de2-1267-4bb4-b07e-7f96d03bc39d.png">
+
+Here is the similar data frame but the test score percentages from Thomas High School removed: 
+<img width="641" alt="Screen Shot 2022-07-10 at 9 58 50 AM" src="https://user-images.githubusercontent.com/104328106/178152359-4249c011-2951-47f9-8f30-41dd38f2dac2.png">
 
 # Summary
 
