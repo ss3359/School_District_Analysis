@@ -86,4 +86,23 @@ Here are the similar dataframes with the math and reading score from Thomas High
 
 <img width="409" alt="Screen Shot 2022-07-10 at 12 51 00 PM" src="https://user-images.githubusercontent.com/104328106/178158148-2320e2b7-9326-4e70-a0ac-865e6f099fc7.png">
 
+After the removial of the grades, there seems to be no change in the data at all. 
+
+
+
+#### b. Scores By School Spending: 
+In this scenario, we have created four groups to label each school in the district based on spending per student. Thomas High School has a student spending in between $631 and $645 per student. 
+
+Here is the data frame displaying the test scores in regards to spending ranges per student, without removing the test scores made by Thomas High School ninth graders. 
+
+
+<img width="707" alt="Screen Shot 2022-07-10 at 12 59 37 PM" src="https://user-images.githubusercontent.com/104328106/178158365-2c347cd4-46f0-4f5a-bb4a-8aafcc37ef91.png">
+
+Here is the similar dataframe with the test scores made by Thomas High School ninth graders removed. 
+
+<img width="701" alt="Screen Shot 2022-07-10 at 12 59 16 PM" src="https://user-images.githubusercontent.com/104328106/178158384-52d1aecd-0bd4-46d8-a075-7500a37ffeaa.png">
+
+
+
+
 
