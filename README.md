@@ -62,6 +62,8 @@ Here are the test scores for math and reading with the test scores for Thomas Hi
 
 #### b. The Scores By School Spending
 In both cases, we have found that the spending for Thomas High School is in between $631 fo $645 per student. However, there is a change of percentages of passing test scores when the scores from the Thomas High School ninth-graders are removed. Here is the data frame of test scores by school spending before the alteration of the data: 
+
+
 <img width="729" alt="Screen Shot 2022-07-10 at 9 15 05 AM" src="https://user-images.githubusercontent.com/104328106/178150955-f7f22fbf-4bb4-481b-8219-bc7b70c82e80.png">
 
 
@@ -92,6 +94,7 @@ Here is the similar data frame but the test score percentages from Thomas High S
 <img width="641" alt="Screen Shot 2022-07-10 at 9 58 50 AM" src="https://user-images.githubusercontent.com/104328106/178152359-4249c011-2951-47f9-8f30-41dd38f2dac2.png">
 
 # Summary
+
 
 
 
