@@ -132,7 +132,15 @@ Here is the similar dataframe but the test scores made by Thomas High School nin
 
 # Summary
 
-After clensing the data provided by the school board, there were some significant changes that we have observed. 
+There were some significant changes that we have observed before and after removing the test scores for Thomas High School ninth graders. 
+
+First, in the school district summary, the average math score, percent passing math, percent passing reading, and the percent passing overall has increased. However, the average reading scores remained the same. 
+
+Second, in the school summary dataframes, the average math score, percent passing math, percent passing reading, and percent passing overall showed a small decrease in percentages. However, the average reading score data point showed a small increase between the two dataframes. 
+
+Third, in the data frames displaying the test scores by school size, there was a small increase in percent value between average math score, percent passing math, percent passing reading, and percent overall passing. There was a percent decrease of average reading scores between the two dataframes. 
+
+Finally, in the data frames representing percentages passing by School Type, the district school values were kept the same. However, there is a percent decrease of average math scores, percent passing math, and percent passing overall. There is a percent increase in average reading scores between the two datasets as well. 
 
 
 
