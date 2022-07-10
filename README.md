@@ -46,12 +46,19 @@ What we see is that there is not a change of percent of passing scores for math 
 
 ##### Math Scores By Grade Level: 
 <img width="356" alt="Screen Shot 2022-07-10 at 8 54 05 AM" src="https://user-images.githubusercontent.com/104328106/178150119-b24076f7-7473-4fb2-8d39-f68767a38e08.png">
+
 ##### Reading Scores By Grade Level: 
 <img width="325" alt="Screen Shot 2022-07-10 at 8 56 08 AM" src="https://user-images.githubusercontent.com/104328106/178150186-5dce3186-61c7-4abe-8b4b-b1cc8500af6d.png">
 
-          
+
+Here are the test scores for math and reading with the test scores for Thomas High School ninth graders removed. 
+
+##### Math Scores By Grade Level (Refined): 
+<img width="304" alt="Screen Shot 2022-07-10 at 9 01 42 AM" src="https://user-images.githubusercontent.com/104328106/178150401-dcb9f729-48f5-4415-87b9-415da1e6db35.png">
 
 
+##### Reading Scores By Grade Level (Refined): 
+<img width="311" alt="Screen Shot 2022-07-10 at 9 01 10 AM" src="https://user-images.githubusercontent.com/104328106/178150380-d0f98fc7-92ab-44a4-9518-f4635e216266.png">
 
 # Summary
 
