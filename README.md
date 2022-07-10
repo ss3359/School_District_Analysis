@@ -33,7 +33,8 @@ With a percent change occuring after the test scores removed, Thomas High School
 
 Here is the same data frame with the test scores removed. 
 
-<img width="1196" alt="Screen Shot 2022-07-10 at 7 24 22 AM" src="https://user-images.githubusercontent.com/104328106/178148709-5e4fb2c6-fe31-4e3e-8bb1-5f43939fb2bd.png">
+<img width="872" alt="Screen Shot 2022-07-10 at 8 20 05 AM" src="https://user-images.githubusercontent.com/104328106/178148840-561b002e-e447-445a-9617-0c8e6fb3e545.png">
+
 
 
 Clearly, we can observe that the removal of the scores did not alter the schools ranking. 
