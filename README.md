@@ -132,7 +132,7 @@ Here is the similar dataframe but the test scores made by Thomas High School nin
 
 # Summary
 
-
+After clensing the data provided by the school board, there were some significant changes that we have observed. 
 
 
 
