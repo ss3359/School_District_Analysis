@@ -16,6 +16,14 @@ This is the results for the district summary shown below, but the reading and ma
 
 <img width="1326" alt="Screen Shot 2022-07-10 at 6 21 17 AM" src="https://user-images.githubusercontent.com/104328106/178144734-3d708eca-2431-402d-9944-46d7646ab5ce.png">
 
+### 2. How is the school summary affected? 
+From the previous results, we see that there was a percent decrease in passing scores when the ninth grade test scores were removed. However, there was only a minor percent decrease. We expect to see a different reusult for the school summary. Shown below is the school summary before the scores from Thomas High School were removed. 
+
+<img width="730" alt="Screen Shot 2022-07-10 at 6 34 07 AM" src="https://user-images.githubusercontent.com/104328106/178145124-1f9e8c18-58dd-42ea-994d-e6a77dcaf371.png">
+
+Here is the similar school summary data frame with the scores from Thomas High School removed. 
+<img width="730" alt="Screen Shot 2022-07-10 at 6 36 23 AM" src="https://user-images.githubusercontent.com/104328106/178145169-32fc8dc5-67ab-4966-ad96-46320c5db1ba.png">
+
 
 
 # Summary
