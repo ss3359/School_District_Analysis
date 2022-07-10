@@ -58,6 +58,17 @@ Since there was little percent change from the scores by Thomas High School, it 
 
 
 ##### a. Math and Reading Scores By Grade
+Obviously, we have removed the scores for ninth graders from Thomas High School. Here are the dataframes representing the average test scores for math and reading for each school based on grade level. These dataframes are displayed before the scores from the Thomas High School ninth graders are removed. 
+
+###### Math Scores By Grade Level: 
 
 
+<img width="360" alt="Screen Shot 2022-07-10 at 12 45 37 PM" src="https://user-images.githubusercontent.com/104328106/178157986-42f2cd5b-3e1d-4464-8113-7cb41ebb93db.png">
+
+
+
+###### Reading Scores By Grade Level: 
+
+
+<img width="352" alt="Screen Shot 2022-07-10 at 12 46 06 PM" src="https://user-images.githubusercontent.com/104328106/178158006-c4fa5f84-6aeb-4e8c-91e9-30856368ebb1.png">
 
