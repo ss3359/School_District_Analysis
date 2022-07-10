@@ -37,9 +37,20 @@ Here is the same data frame with the test scores removed.
 <img width="867" alt="Screen Shot 2022-07-10 at 8 21 49 AM" src="https://user-images.githubusercontent.com/104328106/178148907-e566c80c-1733-4b54-961a-049cc63a7b97.png">
 
 
+Clearly, we can observe that the removal of the scores did not alter the schools ranking. Also, it did not alter the bottom five schools whatsoever. 
 
+### 4. How does replacing the ninth-grade scores affect the following: 
 
-Clearly, we can observe that the removal of the scores did not alter the schools ranking. 
+#### a. The scores by school spending 
+What we see is that there is not a change of percent of passing scores for math and reading. Here are the data frames for math and reading without the test scores for Thomas High School ninth graders removed respectively: 
+
+##### Math Scores By Grade Level: 
+<img width="356" alt="Screen Shot 2022-07-10 at 8 54 05 AM" src="https://user-images.githubusercontent.com/104328106/178150119-b24076f7-7473-4fb2-8d39-f68767a38e08.png">
+##### Reading Scores By Grade Level: 
+<img width="325" alt="Screen Shot 2022-07-10 at 8 56 08 AM" src="https://user-images.githubusercontent.com/104328106/178150186-5dce3186-61c7-4abe-8b4b-b1cc8500af6d.png">
+
+          
+
 
 
 # Summary
